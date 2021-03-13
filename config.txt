@@ -1,7 +1,0 @@
-This is our main config file of API servers.
-
-This is our end of file. 
-
-Welcome to Wonderland
-
-Code is end now. 
